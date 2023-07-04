@@ -1,5 +1,4 @@
-# PassportInfoExtraction-Yolo-Charp
-Build by [Christopher](https://www.linkedin.com/in/rlchristopherdev/)(https://fchrisdev.netlify.app/)
+# PassportInfoExtraction-C#+yolo+ocr
 
 This project is PassportInfoExtraction project with Yolo, CSharp, OCR..
 
